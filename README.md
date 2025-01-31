@@ -1,4 +1,4 @@
-# UpTechJava
+# UpTechGO
 Projeto UpTech - Criado para estudo das linguagens Java, Python e Go
 
 # **🏆 Sistema de Gestão do Campeonato Brasileiro**
